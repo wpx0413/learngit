@@ -1,2 +1,2 @@
-git is a version control system
+git is a very good version control system
 wpx
