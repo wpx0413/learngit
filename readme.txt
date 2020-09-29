@@ -1,3 +1,2 @@
 git is a very good version control system
-wpx
-Luke
+I love git
